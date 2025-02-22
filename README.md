@@ -13,7 +13,6 @@ Ce projet a été réalisé dans le cadre de la préparation à la journée de s
 5. Stocker les résultats et générer une fiche synthèse.
 
 ### Structure du projet
-"
 /simplon-data-engineer-project
 ├── Dockerfile              # Configuration de l'image pour script-runner
 ├── docker-compose.yml      # Orchestration des services Docker
@@ -22,7 +21,7 @@ Ce projet a été réalisé dans le cadre de la préparation à la journée de s
 ├── stores.csv             # Données des magasins
 ├── sales.csv              # Données des ventes
 ├── README.md              # Ce fichier
-"
+
 
 ### Prérequis
 - **Docker** : Installé et configuré sur votre machine.
