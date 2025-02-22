@@ -1,0 +1,17 @@
+services:
+  script-runner:
+    build: .
+    volumes:
+      - data-volume:/app/data
+    depends_on:
+      - data-storage
+
+  data-storage:
+    image: nouchka/sqlite3:latest
+    volumes:
+      - data-volume:/data
+    entrypoint: ["/bin/sh", "-c"]  # Force l'utilisation d'un shell
+    command: ["tail -f /dev/null"]
+
+volumes:
+  data-volume:

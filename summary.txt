@@ -1,0 +1,18 @@
+Fiche Synthèse des Résultats d'Analyse
+Date : 22/02/2025
+
+1. Chiffre d'affaires total : 5268.78 €
+2. Ventes par produit :
+   - Produit A : 24 unités
+   - Produit B : 27 unités
+   - Produit C : 15 unités
+   - Produit D : 21 unités
+   - Produit E : 35 unités
+3. Ventes par région :
+   - Bordeaux : 829.81 €
+   - Lille : 249.93 €
+   - Lyon : 1059.79 €
+   - Marseille : 1009.73 €
+   - Nantes : 739.83 €
+   - Paris : 799.80 €
+   - Strasbourg : 579.89 €
